@@ -1,4 +1,4 @@
-# Personal-webpage 
+# Trafalgar webpage
 This a free template from figma (Apersonal webpage) , In this task I used the following 
 <ul>
   <li> Float to position the content</li>
