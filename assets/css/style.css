@@ -235,7 +235,6 @@ h2::after {
 
 /*customers section*/
 .customers {
-  padding: 200px;
   background-image: url(../images/element.png);
   background-position: 18% 65%;
   background-repeat: no-repeat;
@@ -249,7 +248,7 @@ h2::after {
   background-size: 8% 23%;
   background-position: 99% 1%;
   background-repeat: no-repeat;
-  padding: 40px;
+  padding: 20px;
 }
 
 .customers-main h2 {
@@ -267,14 +266,14 @@ h2::after {
   vertical-align: middle;
   padding-left: 60px;
   padding-right: 60px;
-  width: 40%;
+  width: 30%;
   font-size: 1.2rem;
 }
 .customers-main__text {
   padding: 10px 70px;
   display: table-cell;
   line-height: 1.5em;
-  width: 50%;
+  width: 60%;
 }
 .customers-main h2::after {
   content: "";
@@ -289,6 +288,7 @@ h2::after {
   vertical-align: middle;
 }
 .customers-main__image img {
+  width: 100px;
   border-radius: 50%;
   border: 3px solid white;
 }
@@ -383,6 +383,10 @@ h2::after {
 
 .footer-section {
   background: linear-gradient(183.41deg, #67c3f3 -8.57%, #5a98f2 82.96%);
+}
+
+.footer-section .container {
+  padding: 10px;
 }
 
 .footer-content {
